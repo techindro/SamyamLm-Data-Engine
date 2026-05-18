@@ -35,7 +35,7 @@ Have an idea? Open an issue with:
 
 ```bash
 # Clone your fork
-git clone https://github.com/your-username/SamyamLM-Indic-Geo-AI
+git clone https://github.com/techindro/SamyamLM-Indic-Geo-AI
 cd SamyamLM-Indic-Geo-AI
 
 # Install dependencies
