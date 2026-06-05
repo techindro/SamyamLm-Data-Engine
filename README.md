@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🌍 SamyamLM
@@ -11,8 +10,24 @@
 [![Made in India](https://img.shields.io/badge/Made_in-India-orange.svg)](https://www.makeinindia.com)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://huggingface.co/spaces/techindro/SamyamLm-Demo)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-techindro-yellow)](https://huggingface.co/techindro)
+[![Website](https://img.shields.io/badge/Website-Live-blue)](https://samyam-space-labels.vercel.app)
 
 </div>
+
+---
+
+## 🚀 Live Demos
+
+| Demo | Link |
+|------|------|
+| 🛣️ Indian Road Detector | [Try Now](https://huggingface.co/spaces/techindro/SamyamLm-Demo) |
+| 🚗 Self Driving Car | [Try Now](https://huggingface.co/spaces/techindro/SamyamLm-SelfDriving) |
+| 🏥 Health Detector | [Try Now](https://huggingface.co/spaces/techindro/SamyamLm-Health) |
+| 📚 Education Detector | [Try Now](https://huggingface.co/spaces/techindro/SamyamLm-Education) |
+
+🌐 Website: [samyam-space-labels.vercel.app](https://samyam-space-labels.vercel.app)
 
 ---
 
@@ -81,6 +96,7 @@ The current version includes:
 - 4.5 million individual annotations
 - A working web interface in Hindi
 - Open source code on GitHub
+- 4 Live AI Demos on Hugging Face
 
 ### What's Next?
 
@@ -93,11 +109,13 @@ The current version includes:
 
 SamyamLM's goal is simple: make AI that actually understands India. Not as an afterthought, but built from the ground up for Indian languages, Indian roads, Indian weather, and Indian geography.
 
+---
+
 **SamyamLM** is the world's first satellite-based multimodal data labeling platform built specifically for Indian languages and geographies.
 
 ### The Name
 
-**Samyam** (संयम) = Discipline + Control in Sanskrit  
+**Samyam** (संयम) = Discipline + Control in Sanskrit
 **LM** = Language Model
 
 Together, **SamyamLM** represents disciplined, controlled, and high-quality data labeling for AI systems serving India.
@@ -247,14 +265,14 @@ SamyamLM detects objects that other platforms completely miss:
 | Frontend | React, Devanagari keyboard integration |
 | Infrastructure | AWS S3, EC2, CloudFront |
 
-### Code Example
+---
 
-```python
-# Initialize SamyamLM annotator
-from samyamlm import CLIPAnnotator
+## 📜 License
 
-annotator = CLIPAnnotator(model_name="ViT-B/32")
+MIT — Free to use, modify, and distribute.
 
-# Detect India-specific objects
-image = Image.open("delhi_street.jpg")
-detections = annotator.detect_objects(image)
+---
+
+## 🤝 Contributing
+
+PRs welcome! India ke liye AI banao saath mein! 🇮🇳
