@@ -275,4 +275,4 @@ MIT — Free to use, modify, and distribute.
 
 ## 🤝 Contributing
 
-PRs welcome! India ke liye AI banao saath mein! 🇮🇳
+PRs welcome! let's Build the future of Bharat 🇮🇳
