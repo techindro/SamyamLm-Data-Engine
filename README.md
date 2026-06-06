@@ -275,4 +275,4 @@ MIT — Free to use, modify, and distribute.
 
 ## 🤝 Contributing
 
-PRs welcome! let's Build the future of Bharat 🇮🇳
+PRs welcome! Let's Build the future of Bharat 🇮🇳
