@@ -20,7 +20,7 @@
 
 ## 🌐 Platform Overview
 
-![Samyam — Breakthrough AI for Space & Beyond](Screenshot_2026-06-10_160240.png)
+![Samyam — Breakthrough AI for Space & Beyond](hero.png)
 
 > *"Building AI for space & defense — Breakthrough AI for Space & Beyond"*
 
