@@ -18,14 +18,28 @@
 
 ---
 
+## 🌐 Platform Overview
+
+![Samyam — Breakthrough AI for Space & Beyond](Screenshot_2026-06-10_160240.png)
+
+> *"Building AI for space & defense — Breakthrough AI for Space & Beyond"*
+
+Samyam provides high-quality data labeling, model evaluation, and AI tools designed for space agencies, defense teams, and enterprises working on next-generation applications.
+
+---
+
 ## 🚀 Live Demos
 
-| Demo | Link |
-|------|------|
-| 🛣️ Indian Road Detector | [Try Now](https://huggingface.co/spaces/techindro/SamyamLm-Demo) |
-| 🚗 Self Driving Car | [Try Now](https://huggingface.co/spaces/techindro/SamyamLm-SelfDriving) |
-| 🏥 Health Detector | [Try Now](https://huggingface.co/spaces/techindro/SamyamLm-Health) |
-| 📚 Education Detector | [Try Now](https://huggingface.co/spaces/techindro/SamyamLm-Education) |
+Experience our AI models in action. All demos run on Hugging Face Spaces — no installation required.
+
+![Samyam Live Demos](Screenshot_2026-06-10_160450.png)
+
+| Demo | Description | Link |
+|------|-------------|------|
+| 🛣️ Indian Road Detector | AI-powered road detection & segmentation for Indian road infrastructure | [Try Now](https://huggingface.co/spaces/techindro/SamyamLm-Demo) |
+| 🚗 Self Driving Car | Real-time object detection and lane segmentation for autonomous vehicles | [Try Now](https://huggingface.co/spaces/techindro/SamyamLm-SelfDriving) |
+| 🏥 Health Detector | Medical imaging analysis and diagnostic AI for healthcare applications | [Try Now](https://huggingface.co/spaces/techindro/SamyamLm-Health) |
+| 📚 Education Detector | Content analysis and educational material classification using NLP & vision | [Try Now](https://huggingface.co/spaces/techindro/SamyamLm-Education) |
 
 🌐 Website: [samyam-space-labels.vercel.app](https://samyam-space-labels.vercel.app)
 
@@ -33,7 +47,7 @@
 
 ## 📖 What is SamyamLM?
 
-SamyamLM is a data labeling platform built specifically for Indian languages and Indian geography. It helps create training data for AI models using satellite images, road cameras, and Hindi text.
+SamyamLM is a **breakthrough AI platform for space, defense, and enterprise** — purpose-built for Indian languages and Indian geography. It helps create training data for AI models using satellite images, road cameras, and Hindi text.
 
 ### The Name
 
@@ -51,97 +65,20 @@ Most AI labeling companies like Scale AI, Labelbox, and Appen were built for Wes
 3. They can't process satellite images of Indian geography
 4. They fail in Indian weather (monsoon, dust, night driving)
 
+**The result:** AI models that work perfectly in San Francisco but fail in Mumbai, Delhi, and Chennai.
+
 ### How Does SamyamLM Work?
 
 The platform has six parts that work together:
 
 | Part | What It Does |
 |------|---------------|
-| Satellite Imagery | Takes pictures from ISRO satellites (5m to 30m resolution) |
-| Ground Cameras | Records video from cameras on Indian roads |
-| Hindi Text | Reads and understands Hindi language inputs |
-| AI Pre-labeling | Does 58% of the work automatically using AI models |
-| Human Review | Lets people check and fix labels using Hindi keyboard |
-| Quality Check | Runs 3 tests to ensure labels are correct |
-
-### What Makes It Different?
-
-SamyamLM can detect 47 objects that other platforms miss completely:
-
-- Auto-rickshaws, cycle-rickshaws, tractors, bullock carts
-- Cattle, stray dogs, buffalo, camels, elephants
-- Kutcha roads, potholes, speed breakers
-- Monsoon rain, dust haze, night driving conditions
-
-### How Well Does It Perform?
-
-Compared to Scale AI (the industry leader):
-
-- **59% faster** annotation speed
-- **15.6% better** at answering Hindi questions about images
-- **19.7% better** at detecting Indian road objects
-- **58% cheaper** per label
-
-### Who Is It For?
-
-- Self-driving car companies working on Indian roads
-- AI companies that want Hindi language models
-- Government agencies doing disaster response or crop monitoring
-- Satellite imaging companies
-
-### What Has Been Built So Far?
-
-The current version includes:
-- 275,000 labeled samples
-- 4.5 million individual annotations
-- A working web interface in Hindi
-- Open source code on GitHub
-- 4 Live AI Demos on Hugging Face
-
-### What's Next?
-
-- Support for all 22 Indian languages
-- Real-time satellite data processing
-- API for companies to use
-- Expansion to other countries like Indonesia and Nigeria
-
-### The Big Picture
-
-SamyamLM's goal is simple: make AI that actually understands India. Not as an afterthought, but built from the ground up for Indian languages, Indian roads, Indian weather, and Indian geography.
-
----
-
-**SamyamLM** is the world's first satellite-based multimodal data labeling platform built specifically for Indian languages and geographies.
-
-### The Name
-
-**Samyam** (संयम) = Discipline + Control in Sanskrit
-**LM** = Language Model
-
-Together, **SamyamLM** represents disciplined, controlled, and high-quality data labeling for AI systems serving India.
-
-### What Does It Do?
-
-SamyamLM helps companies and researchers create training data for AI models by combining:
-
-| Component | What It Does |
-|-----------|---------------|
-| 🛰️ **Satellite Imagery** | Processes ISRO and commercial satellite feeds (5m-30m resolution) |
-| 📷 **Ground Cameras** | Analyzes dashcam footage from Indian roads |
-| 📝 **Hindi Text** | Understands and annotates Hindi and other Indic languages |
-| 🤖 **AI Pre-labeling** | Reduces human effort by 58% using CLIP-based models |
-| 👨‍💻 **Human Review** | Hindi-first interface with Devanagari keyboard |
-| ✅ **Quality Assurance** | 3-stage QA with Cohen's κ > 0.75 |
-
-### Why SamyamLM?
-
-Most AI labeling platforms are built for English and Western data. They don't understand:
-- Hindi sentences and grammar
-- Indian road conditions (auto-rickshaws, cattle, potholes)
-- Satellite imagery for Indian geography
-- Monsoon, dust haze, and night driving in India
-
-**SamyamLM fixes all of this.** It's AI training data that actually understands India.
+| 🛰️ Satellite Imagery | Takes pictures from ISRO satellites (5m to 30m resolution) |
+| 📷 Ground Cameras | Records video from cameras on Indian roads |
+| 📝 Hindi Text | Reads and understands Hindi language inputs |
+| 🤖 AI Pre-labeling | Does 58% of the work automatically using AI models |
+| 👨‍💻 Human Review | Lets people check and fix labels using Hindi keyboard |
+| ✅ Quality Check | Runs 3 tests to ensure labels are correct |
 
 ---
 
@@ -169,8 +106,6 @@ Existing platforms like Scale AI, Labelbox, and Appen were built for Western mar
 | No satellite geospatial integration | Disaster response AI is blind |
 | No Indian road objects | Self-driving cars miss auto-rickshaws and cattle |
 
-**The result:** AI models that work perfectly in San Francisco but fail in Mumbai, Delhi, and Chennai.
-
 ---
 
 ## 🚀 The Solution
@@ -188,6 +123,124 @@ SamyamLM is the first data labeling platform purpose-built for India's linguisti
 | Indian Road Conditions | ❌ | ❌ | ❌ | ✅ Yes |
 | Adverse Weather (Monsoon) | ❌ | ❌ | ❌ | ✅ Yes |
 | Cost per Label | $0.29 | $0.27 | $0.25 | $0.12 |
+
+---
+
+## 🛰️ Space Tech & Defense
+
+![Samyam — Powering Frontier AI](Screenshot_2026-06-10_160315.png)
+
+SamyamLM extends beyond roads and language — it is built to power **next-generation space and defense AI**.
+
+### Breakthrough AI for Space & Beyond
+
+Samyam provides high-quality data labeling, model evaluation, and AI tools designed for:
+- Space agencies (ISRO and allied partners)
+- Defense teams and armed forces
+- Enterprises working on next-generation applications
+
+### Generative AI Data Engine
+
+![One-Stop-Shop for Building AI — Pipeline](Screenshot_2026-06-10_160344.png)
+
+Samyam's Generative AI Data Engine powers advanced LLMs and generative models through world-class:
+
+| Capability | Description |
+|------------|-------------|
+| **Generation** | After initial pre-training, create complex prompt-response pairs from scratch |
+| **RLHF** | Apply human preferences to model outputs for alignment |
+| **Red Teaming** | Use prompt injection techniques to uncover model vulnerabilities |
+| **Model Evaluation** | Evaluate model against complex and diverse prompts |
+| **SFT** | Supervised fine-tuning — learn from demonstrated behavior |
+
+The full pipeline: `Pre-Training → SFT → RLHF → Deployment`, with Red Teaming and Model Evaluation running in parallel.
+
+### Samyam Data Engine
+
+![Samyam Data Engine — Collect, Curate, Annotate](Screenshot_2026-06-10_160418.png)
+
+> *Collect, curate, and annotate data. Train models and evaluate. Repeat.*
+
+The Data Engine follows a continuous loop:
+
+```
+Raw Data → Curate → Evaluate / Annotate → HQ Data
+```
+
+This loop ensures consistently high-quality labeled data for every training cycle.
+
+---
+
+## 🏛️ Government & Defense Programs
+
+![AI for Allied Public-Sector Programs](Screenshot_2026-06-10_160820.png)
+
+SamyamLM supports government agencies and defense organizations across India and allied nations.
+
+### AI for Allied Public-Sector Programs
+
+Samyam supports allied governments and coalition partners with **interoperable AI** that respects:
+- Sovereignty and data security
+- Export controls (ITAR Aware)
+- Shared mission objectives
+
+### Indian Government Programs
+
+![Indian Government Programs — MoD, ISRO, Intelligence, Border](Screenshot_2026-06-10_160904.png)
+
+| Program | Focus |
+|---------|-------|
+| 🛡️ **Indian Defence (MoD)** | AI for Armed Forces & DRDO programs |
+| 🛰️ **ISRO & Space** | Satellite intelligence & mission analytics |
+| 🔍 **Intelligence & Security** | ISR, GEOINT and threat detection |
+| 🌊 **Border & Maritime** | Surveillance for BSF, ITBP & Coast Guard |
+
+---
+
+## 🧠 AI Knowledge Hub
+
+![AI Knowledge Hub — Generative AI & Agentic AI](Screenshot_2026-06-10_160631.png)
+
+Samyam is building **"The AI Knowledge Hub"** — exploring core pillars of modern AI and how Samyam applies each discipline to solve critical space, defense, and enterprise challenges.
+
+### Core AI Disciplines
+
+**Generative AI** — *Create. Synthesize. Transform.*
+> Generative AI models produce new data — images, text, code, and synthetic satellite imagery — by learning patterns from massive datasets. Samyam leverages generative models to augment sparse training data, simulate orbital scenarios, and accelerate mission readiness.
+- Synthetic satellite image generation for training
+- Automated report & briefing generation
+- Scenario simulation for mission planning
+
+**Agentic AI** — *Autonomous. Adaptive. Decisive.*
+> Agentic AI systems act independently — planning, reasoning, and executing multi-step tasks without constant human oversight. Samyam deploys agentic workflows for autonomous threat detection, real-time orbital decision-making, and adaptive mission control.
+- Autonomous space debris threat response
+- Multi-step mission planning agents
+- Self-healing sensor monitoring pipelines
+
+---
+
+## 📂 Case Studies & Resources
+
+![Case Studies & Resources](Screenshot_2026-06-10_160658.png)
+
+### Highlighted Case Studies
+
+| Case Study | Category | Description |
+|------------|----------|-------------|
+| **Satellite Health Monitoring with Samyam** | Monitoring | Helping an emerging constellation operator build AI-driven health checks across their initial fleet of LEO satellites |
+| **Orbital Debris Detection Pipeline** | Defense | Building labeled datasets of orbital objects to train detection models for space situational awareness applications |
+| **Satellite Image Annotation at Scale** | Data | Delivering high-quality labeled satellite imagery for earth observation research with consistent annotation standards (100K+ images labeled) |
+
+### Learning Resources
+
+![Learn More About The Data Engine](Screenshot_2026-06-10_160510.png)
+
+| Type | Title |
+|------|-------|
+| Blog | Why Is ChatGPT So Good? |
+| Guide | Guide to Data Annotation |
+| Guide | Guide: Computer Vision |
+| Guide | Guide: Model Training |
 
 ---
 
@@ -264,6 +317,17 @@ SamyamLM detects objects that other platforms completely miss:
 | Backend | FastAPI, PostgreSQL, Redis |
 | Frontend | React, Devanagari keyboard integration |
 | Infrastructure | AWS S3, EC2, CloudFront |
+
+---
+
+## 🔮 What's Next?
+
+- Support for all 22 Indian languages
+- Real-time satellite data processing
+- API for companies to use
+- Expansion to other countries like Indonesia and Nigeria
+- Deeper integration with ISRO mission analytics
+- Expansion of Agentic AI workflows for defense applications
 
 ---
 
