@@ -20,7 +20,7 @@
 
 ## 🌐 Platform Overview
 
-![Samyam — Breakthrough AI for Space & Beyond](hero.png)
+![Samyam — Breakthrough AI for Space & Beyond](assets/hero.png)
 
 > *"Building AI for space & defense — Breakthrough AI for Space & Beyond"*
 
@@ -32,7 +32,7 @@ Samyam provides high-quality data labeling, model evaluation, and AI tools desig
 
 Experience our AI models in action. All demos run on Hugging Face Spaces — no installation required.
 
-![Samyam Live Demos](Screenshot_live-demos.png)
+![Samyam Live Demos](assets/live-demos.png)
 
 | Demo | Description | Link |
 |------|-------------|------|
@@ -128,7 +128,7 @@ SamyamLM is the first data labeling platform purpose-built for India's linguisti
 
 ## 🛰️ Space Tech & Defense
 
-![Samyam — Powering Frontier AI](Screenshot_2026-06-10_160315.png)
+![Samyam — Powering Frontier AI](assets/frontier-ai.png)
 
 SamyamLM extends beyond roads and language — it is built to power **next-generation space and defense AI**.
 
@@ -141,7 +141,7 @@ Samyam provides high-quality data labeling, model evaluation, and AI tools desig
 
 ### Generative AI Data Engine
 
-![One-Stop-Shop for Building AI — Pipeline](Screenshot_2026-06-10_160344.png)
+![One-Stop-Shop for Building AI — Pipeline](assets/data-engine-pipeline.png)
 
 Samyam's Generative AI Data Engine powers advanced LLMs and generative models through world-class:
 
@@ -157,7 +157,7 @@ The full pipeline: `Pre-Training → SFT → RLHF → Deployment`, with Red Team
 
 ### Samyam Data Engine
 
-![Samyam Data Engine — Collect, Curate, Annotate](Screenshot_2026-06-10_160418.png)
+![Samyam Data Engine — Collect, Curate, Annotate](assets/data-engine.png)
 
 > *Collect, curate, and annotate data. Train models and evaluate. Repeat.*
 
@@ -173,7 +173,7 @@ This loop ensures consistently high-quality labeled data for every training cycl
 
 ## 🏛️ Government & Defense Programs
 
-![AI for Allied Public-Sector Programs](Screenshot_2026-06-10_160820.png)
+![AI for Allied Public-Sector Programs](assets/allied-programs.png)
 
 SamyamLM supports government agencies and defense organizations across India and allied nations.
 
@@ -186,7 +186,7 @@ Samyam supports allied governments and coalition partners with **interoperable A
 
 ### Indian Government Programs
 
-![Indian Government Programs — MoD, ISRO, Intelligence, Border](Screenshot_2026-06-10_160904.png)
+![Indian Government Programs — MoD, ISRO, Intelligence, Border](assets/govt-programs.png)
 
 | Program | Focus |
 |---------|-------|
@@ -199,7 +199,7 @@ Samyam supports allied governments and coalition partners with **interoperable A
 
 ## 🧠 AI Knowledge Hub
 
-![AI Knowledge Hub — Generative AI & Agentic AI](Screenshot_2026-06-10_160631.png)
+![AI Knowledge Hub — Generative AI & Agentic AI](assets/ai-knowledge-hub.png)
 
 Samyam is building **"The AI Knowledge Hub"** — exploring core pillars of modern AI and how Samyam applies each discipline to solve critical space, defense, and enterprise challenges.
 
@@ -221,7 +221,7 @@ Samyam is building **"The AI Knowledge Hub"** — exploring core pillars of mode
 
 ## 📂 Case Studies & Resources
 
-![Case Studies & Resources](Screenshot_2026-06-10_160658.png)
+![Case Studies & Resources](assets/case-studies.png)
 
 ### Highlighted Case Studies
 
@@ -233,7 +233,7 @@ Samyam is building **"The AI Knowledge Hub"** — exploring core pillars of mode
 
 ### Learning Resources
 
-![Learn More About The Data Engine](Screenshot_2026-06-10_160510.png)
+![Learn More About The Data Engine](assets/resources.png)
 
 | Type | Title |
 |------|-------|
