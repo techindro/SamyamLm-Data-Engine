@@ -32,7 +32,7 @@ Samyam provides high-quality data labeling, model evaluation, and AI tools desig
 
 Experience our AI models in action. All demos run on Hugging Face Spaces — no installation required.
 
-![Samyam Live Demos](Screenshot_2026-06-10_160450.png)
+![Samyam Live Demos](Screenshot_live-demos.png)
 
 | Demo | Description | Link |
 |------|-------------|------|
